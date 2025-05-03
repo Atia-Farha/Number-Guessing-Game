@@ -1,2 +1,2 @@
 # Number-Guessing-Game
-Terminal-based number guessing app made using C
+Terminal-based number guessing game made using C
